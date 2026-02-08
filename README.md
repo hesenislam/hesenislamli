@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Həsən İslamlı</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast | CompTIA Security+ Candidate | IT & Network Security from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hesenislam&label=Profile%20views&color=0e75b6&style=flat" alt="hesenislam" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4E35AQHTivt48C-lWw/profile-framedphoto-shrink_200_200/B4EZl7dEjMIQAY-/0/1758712842715?e=1771149600&v=beta&t=8tCRNgGJjkHj8kf9xaxk23HwoTa_1BAnxZaUvRGVNEk" alt="hesenislam" /> </p>
 
 - 🔭 I’m currently working on [Port Scanner](https://github.com/hesenislam/security-lab/blob/main/python-scripts/port_scanner.py)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/h%c9%99s%c9%99n-islaml%c4%b1-400a4934b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h%c9%99s%c9%99n-islaml%c4%b1-400a4934b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/h%C9%99s%C9%99n-islaml%C4%B1-400a4934b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h%c9%99s%c9%99n-islaml%c4%b1-400a4934b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
